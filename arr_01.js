@@ -7,16 +7,18 @@ Aufgabe:
 	---->
 
 <html>
-	<head>
-	</head>
-	<body>
-		<h1></h1>
-		<p></p>
-	</body>
+    <head>
+    </head>
+    <body>
+        <h1>
+        </h1>
+        <p>
+        </p>
+    </body>
 </html>
 
---> return : "\n"  
---> Tab: "\t"
+--> return : "\n"  // ZeilenUmbruch 
+--> Tab: "\t" // Tabulatormäßig den string verschieben
 
 
 Verwenden Sie dafür die untenstehenden Arrays
